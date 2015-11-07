@@ -1,7 +1,7 @@
-#Acme Boards Document Root
+#Arietta G25 web page
 
-This is the default contents off  __/var/www__ directory on 
-Acme Systems Linux Embedded boards ready to use microSDs.
+This is the default contents off  __/var/www/html__ directory on 
+Arietta G25.
 
-* [Acme Systems web site](http://www.acmesystems.it)
+* [Acme Systems web site](http://www.acmesystems.it/arietta)
 
